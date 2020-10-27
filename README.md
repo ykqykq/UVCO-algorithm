@@ -1,1 +1,0 @@
-# UVCO-algorithm
