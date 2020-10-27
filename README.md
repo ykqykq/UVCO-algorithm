@@ -1,6 +1,6 @@
 # overview
 The repository contains our simulation platform of legacy vehicle computation task offloading in urban scenario. <br>
-Our main code is in the bin/util.
+Our main code is in the bin/utils.
 # UAV-assisted Vehicular computation Cost Optimization (UVCO) algorithm
 
 With the emergence of intelligent transportation, the emergence of a large number of vehicle applications not only serve people's travel life, but also cause certain burden on the calculation and storage of vehicles. Vehicular computation offloading is a well-received strategy to execute delay-sensitive and/or compute-intensive tasks of legacy vehicles. The response time of vehicular computation offloading can be shortened by using mobile edge computing that offers strong computing power, dring these computation tasks closer to end users. However, the quality of communication is hard to guarantee due to the obstruction of dense buildings or lack of infrastructure in some zones. Unmanned Aerial Vehicles (UAVs), therefore, have become one of the means to establish communication links for the two ends owing to its characteristics of ignoring terrain and flexible deployment. To make a sensible decision of computation offloading, nevertheless vehicles need to gather offloading-related global information, in which Software-Defined Networking (SDN) has shown its advances in data collection and centralized management. <br>
